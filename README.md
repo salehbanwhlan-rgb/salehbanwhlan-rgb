@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 أهلاً بك! أنا صالح أنور بن وهلان
+### طالب أمن سيبراني | مطور أنظمة وذكاء اصطناعي 🛡️💻
 
-<!--
-**salehbanwhlan-rgb/salehbanwhlan-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+أنا طالب أمن سيبراني في **جامعة الأوائل الحديثة**، متمرس في مجالات الاختبار الأمني (Ethical Hacking)، حماية الشبكات، وتطوير تطبيقات البرمجيات والأتمتة باستخدام تقنيات الذكاء الاصطناعي.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 نبذة عني
+- 🎓 **التخصص والأكاديميا:** أدرس حالياً بكالوريوس الأمن السيبراني (متوقع التخرج 2028).
+- 🛠️ **مجالات الاهتمام:** الأمن السيبراني، أتمتة الأنظمة، تطوير تطبيقات الذكاء الاصطناعي، وتصميم واجهات المستخدم UI/UX.
+- 💡 **مشاريع سابقة:** 
+  - **Vortex CyberAI:** مشروع حوكمة شبكات وأمن سيبراني.
+  - **HireFlow AI & Echo AI:** منصات إدارية وتحليلية معتمدة على الذكاء الاصطناعي.
+  - **UniEval:** تطبيق حوكمة أكاديمي.
+
+---
+
+### 🧰 الأدوات والتقنيات (Skills & Tools)
+
+**الأمن السيبراني والشبكات:**
+`Kali Linux` `Termux` `Bettercap` `Nmap` `Network Defense`
+
+**تطوير البرمجيات والأتمتة:**
+`Python` `n8n` `Replit` `Claude` `NotebookLM` `Git / GitHub`
+
+**تطوير وتصميم الواجهات:**
+`UI/UX Design` `Prototyping`
+
+---
+
+### 📬 التواصل
+- **LinkedIn:** [salehbinwahlan](https://www.linkedin.com/in/salehbinwahlan/)
